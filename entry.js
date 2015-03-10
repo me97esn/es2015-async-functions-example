@@ -1,3 +1,4 @@
-require('babel!./async.js')
-require('babel!./module-import.js')
+// require('babel?optional=asyncToGenerator!./async.js')
+
+require('./module-import.js')
 

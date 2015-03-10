@@ -1,2 +1,2 @@
-import someModule from 'babel!./module.js'
+import someModule from './module.js'
 console.log(someModule)
