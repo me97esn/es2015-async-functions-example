@@ -1,0 +1,19 @@
+{
+  "name": "es2015-async-functions-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/me97esn/es2015-async-functions-example.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/me97esn/es2015-async-functions-example/issues"
+  },
+  "homepage": "https://github.com/me97esn/es2015-async-functions-example"
+}

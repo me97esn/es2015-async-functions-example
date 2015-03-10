@@ -1,0 +1,2 @@
+require('babel!./async.js')
+
